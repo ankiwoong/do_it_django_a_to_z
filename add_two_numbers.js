@@ -5,7 +5,3 @@ function doSomething() {
     document.getElementById("valueB").innerHTML = b;
     document.getElementById("valueC").innerHTML = Number(a) + Number(b);
 }
-
-function whatTimeIsIt() {
-    alert(new Date());
-}
